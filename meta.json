@@ -1,0 +1,20 @@
+{
+  name: "Test",
+  symbol: "TT",
+  description: "Test Description",
+  image: "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+  attributes: [
+    { trait_type: "Type", value: "DBC Token" },
+    { trait_type: "Total Supply", value: "1000000000" },
+    { trait_type: "Decimals", value: "6" }
+  ],
+  properties: {
+    files: [
+      {
+        uri: "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+        type: "image/png"
+      }
+    ],
+    category: "image"
+  }
+}
